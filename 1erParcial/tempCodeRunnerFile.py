@@ -1,0 +1,1 @@
+lista_fantastico, lista_guardianes = descend_fantasticos_guardianes(lista_p)
